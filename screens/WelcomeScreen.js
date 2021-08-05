@@ -213,7 +213,7 @@ showModal = ()=>{
 
         <View style={{justifyContent:'center', alignItems:'center'}}>
           <Grocery/>
-          <Text style={styles.title}>Grocer's Stop</Text>
+          <Text style={styles.title}>Maria's Shop</Text>
         </View>
         <View>
             <TextInput
